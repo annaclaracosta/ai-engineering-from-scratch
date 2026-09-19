@@ -88,3 +88,16 @@ i18n/*/phases/
 i18n/*/.cache/
 i18n/*/.translate-cache.json
 site/langs.js
+
+
+*.pt
+*.pth
+*.safetensors
+runs/
+.env
+data/*
+!data/train.csv
+keep.me
+!keep.me
+
+
